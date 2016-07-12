@@ -1,0 +1,106 @@
+{
+	"name": "Android",
+	"children": [
+		{
+            "name": "一",
+            "value": 20,
+            "children": [
+                {
+                    "name": "一一",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "二",
+            "value": 30,
+            "children": [
+                {
+                    "name": "二一",
+                    "value": 5
+                },
+                {
+                    "name": "二二",
+                    "value": 2
+                },
+                {
+                    "name": "二三",
+                    "value": 8
+                },
+                {
+                    "name": "二四",
+                    "value": 6
+                },
+                {
+                    "name": "二五",
+                    "value": 9
+                }
+            ]
+        },
+        {
+            "name": "三",
+            "value": 10,
+            "children": [
+                {
+                    "name": "三一",
+                    "value": 3
+                },
+                {
+                    "name": "三二",
+                    "value": 2
+                },
+                {
+                    "name": "三三",
+                    "value": 1
+                },
+                {
+                    "name": "三四",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "四",
+            "value": 15,
+            "children": [
+                {
+                    "name": "四一",
+                    "value": 4
+                },
+                {
+                    "name": "四二",
+                    "value": 9
+                },
+                {
+                    "name": "四三",
+                    "value": 2
+                }
+            ]
+        },{
+            "name": "五",
+            "value": 25,
+            "children": [
+                {
+                    "name": "五一",
+                    "value": 7
+                },
+                {
+                    "name": "五二",
+                    "value": 1
+                },
+                {
+                    "name": "五三",
+                    "value": 8
+                },
+                {
+                    "name": "五四",
+                    "value": 13
+                },
+                {
+                    "name": "五五",
+                    "value": 6
+                }
+            ]
+        }
+	]
+}
