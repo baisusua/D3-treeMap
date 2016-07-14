@@ -1,0 +1,2325 @@
+{
+    "children": [
+        {
+            "name": "小米",
+            "value": 21.672705,
+            "children": [
+                {
+                    "name": "小米 平板2",
+                    "value": 0.0000505186
+                },
+                {
+                    "name": "小米 红米 NOTE",
+                    "value": 0.0001515558
+                },
+                {
+                    "name": "小米 PAD",
+                    "value": 0.00018312992
+                },
+                {
+                    "name": "小米 2C",
+                    "value": 0.025177207
+                },
+                {
+                    "name": "小米 1S",
+                    "value": 0.07299937
+                },
+                {
+                    "name": "小米",
+                    "value": 0.14744484
+                },
+                {
+                    "name": "小米 2A",
+                    "value": 0.17280518
+                },
+                {
+                    "name": "红米 1SC",
+                    "value": 0.18948895
+                },
+                {
+                    "name": "小米 1",
+                    "value": 0.26548156
+                },
+                {
+                    "name": "小米 NOTE PRO",
+                    "value": 0.27722082
+                },
+                {
+                    "name": "其他",
+                    "value": 0.41477665
+                },
+                {
+                    "name": "小米 红米 2",
+                    "value": 0.64948606
+                },
+                {
+                    "name": "小米 4C",
+                    "value": 0.66583514
+                },
+                {
+                    "name": "小米 2",
+                    "value": 0.6920101
+                },
+                {
+                    "name": "红米 2",
+                    "value": 0.9113303
+                },
+                {
+                    "name": "小米 NOTE",
+                    "value": 0.9798145
+                },
+                {
+                    "name": "小米 红米",
+                    "value": 1.0060526
+                },
+                {
+                    "name": "小米 2S",
+                    "value": 1.0757747
+                },
+                {
+                    "name": "红米 NOTE3",
+                    "value": 1.3269467
+                },
+                {
+                    "name": "红米 2A",
+                    "value": 1.3873607
+                },
+                {
+                    "name": "红米 NOTE2",
+                    "value": 1.5174397
+                },
+                {
+                    "name": "红米 NOTE 1S",
+                    "value": 1.5475931
+                },
+                {
+                    "name": "红米 1S",
+                    "value": 1.5521966
+                },
+                {
+                    "name": "小米 3",
+                    "value": 1.857733
+                },
+                {
+                    "name": "红米 NOTE",
+                    "value": 2.249827
+                },
+                {
+                    "name": "小米 4",
+                    "value": 2.6875262
+                }
+            ]
+        },
+        {
+            "name": "OPPO",
+            "value": 14.67182,
+            "children": [
+                {
+                    "name": "OPPO R3",
+                    "value": 0.000031574124
+                },
+                {
+                    "name": "OPPO FIND 3",
+                    "value": 0.001155613
+                },
+                {
+                    "name": "OPPO X907",
+                    "value": 0.021893498
+                },
+                {
+                    "name": "OPPO R8000",
+                    "value": 0.033695906
+                },
+                {
+                    "name": "OPPO ULIKE2",
+                    "value": 0.034851518
+                },
+                {
+                    "name": "OPPO 3005",
+                    "value": 0.037503745
+                },
+                {
+                    "name": "OPPO R7PLUS",
+                    "value": 0.04079377
+                },
+                {
+                    "name": "OPPO R823T",
+                    "value": 0.049192484
+                },
+                {
+                    "name": "OPPO R830",
+                    "value": 0.05361286
+                },
+                {
+                    "name": "OPPO FIND5",
+                    "value": 0.058784705
+                },
+                {
+                    "name": "OPPO R9 PLUS",
+                    "value": 0.060666524
+                },
+                {
+                    "name": "OPPO U707T",
+                    "value": 0.07186902
+                },
+                {
+                    "name": "OPPO FIND5 X909T",
+                    "value": 0.08166332
+                },
+                {
+                    "name": "OPPO R819T",
+                    "value": 0.08795288
+                },
+                {
+                    "name": "OPPO N1",
+                    "value": 0.098340765
+                },
+                {
+                    "name": "OPPO 6607",
+                    "value": 0.10141609
+                },
+                {
+                    "name": "OPPO R831T",
+                    "value": 0.105931185
+                },
+                {
+                    "name": "OPPO R1",
+                    "value": 0.116407484
+                },
+                {
+                    "name": "OPPO 1105",
+                    "value": 0.11737996
+                },
+                {
+                    "name": "OPPO R7T",
+                    "value": 0.1230633
+                },
+                {
+                    "name": "OPPO R7005",
+                    "value": 0.14321391
+                },
+                {
+                    "name": "OPPO N3",
+                    "value": 0.15417014
+                },
+                {
+                    "name": "OPPO A51",
+                    "value": 0.20388675
+                },
+                {
+                    "name": "OPPO A33M",
+                    "value": 0.20763776
+                },
+                {
+                    "name": "OPPO A31T",
+                    "value": 0.21220337
+                },
+                {
+                    "name": "OPPO 3007",
+                    "value": 0.21745099
+                },
+                {
+                    "name": "OPPO R8107",
+                    "value": 0.2255908
+                },
+                {
+                    "name": "OPPO R7C",
+                    "value": 0.22822408
+                },
+                {
+                    "name": "OPPO R7SPLUS",
+                    "value": 0.23885193
+                },
+                {
+                    "name": "OPPO A11",
+                    "value": 0.24362594
+                },
+                {
+                    "name": "OPPO R831S",
+                    "value": 0.24506572
+                },
+                {
+                    "name": "OPPO N5117",
+                    "value": 0.26454064
+                },
+                {
+                    "name": "OPPO R6007",
+                    "value": 0.2766272
+                },
+                {
+                    "name": "OPPO R2017",
+                    "value": 0.3172694
+                },
+                {
+                    "name": "OPPO A31C",
+                    "value": 0.32349584
+                },
+                {
+                    "name": "OPPO",
+                    "value": 0.35719174
+                },
+                {
+                    "name": "OPPO R7 PLUSM",
+                    "value": 0.36252147
+                },
+                {
+                    "name": "OPP0 R8007",
+                    "value": 0.37755707
+                },
+                {
+                    "name": "OPPO R7 PLUS",
+                    "value": 0.388949
+                },
+                {
+                    "name": "OPPO A53",
+                    "value": 0.39050245
+                },
+                {
+                    "name": "OPPO FIND 7",
+                    "value": 0.39667836
+                },
+                {
+                    "name": "OPPO R7007",
+                    "value": 0.40898594
+                },
+                {
+                    "name": "OPPO R7SM",
+                    "value": 0.5737145
+                },
+                {
+                    "name": "OPPO A33",
+                    "value": 0.6807318
+                },
+                {
+                    "name": "OPPO R1C",
+                    "value": 0.717964
+                },
+                {
+                    "name": "OPPO R7S",
+                    "value": 0.8737255
+                },
+                {
+                    "name": "其他",
+                    "value": 0.9280014
+                },
+                {
+                    "name": "OPPO A31",
+                    "value": 0.9509747
+                },
+                {
+                    "name": "OPPO R7",
+                    "value": 1.1966088
+                },
+                {
+                    "name": "OPPO R9",
+                    "value": 1.2696524
+                }
+            ]
+        },
+        {
+            "name": "华为",
+            "value": 13.970368,
+            "children": [
+                {
+                    "name": "华为 荣耀畅玩4X 全网通",
+                    "value": 0.000006314825
+                },
+                {
+                    "name": "华为 Y560",
+                    "value": 0.000044203774
+                },
+                {
+                    "name": "华为 C8818",
+                    "value": 0.00008840755
+                },
+                {
+                    "name": "华为 Ascend G710",
+                    "value": 0.000094722374
+                },
+                {
+                    "name": "华为 荣耀畅玩 5X",
+                    "value": 0.00020838922
+                },
+                {
+                    "name": "华为 C8817",
+                    "value": 0.0004294081
+                },
+                {
+                    "name": "华为 C8816",
+                    "value": 0.0005367601
+                },
+                {
+                    "name": "华为 C8813",
+                    "value": 0.00065042695
+                },
+                {
+                    "name": "华为 C8815",
+                    "value": 0.0008714458
+                },
+                {
+                    "name": "华为 B199",
+                    "value": 0.0009914275
+                },
+                {
+                    "name": "华为 P8 青春版",
+                    "value": 0.004900304
+                },
+                {
+                    "name": "华为 PE-CL00",
+                    "value": 0.009775349
+                },
+                {
+                    "name": "华为 C199",
+                    "value": 0.010293164
+                },
+                {
+                    "name": "华为 ALE-CL00",
+                    "value": 0.016001767
+                },
+                {
+                    "name": "华为 荣耀畅玩平板 T1",
+                    "value": 0.021546183
+                },
+                {
+                    "name": "华为 荣耀 畅玩4C",
+                    "value": 0.022335535
+                },
+                {
+                    "name": "华为 荣耀平板 S8-701U",
+                    "value": 0.023055425
+                },
+                {
+                    "name": "华为 荣耀畅玩4",
+                    "value": 0.023055425
+                },
+                {
+                    "name": "华为 Ascend P6",
+                    "value": 0.02327013
+                },
+                {
+                    "name": "华为 荣耀平板 T1",
+                    "value": 0.027823118
+                },
+                {
+                    "name": "华为 C8817D",
+                    "value": 0.03589978
+                },
+                {
+                    "name": "华为 P2",
+                    "value": 0.03919612
+                },
+                {
+                    "name": "华为 MediaPad X1 7.0",
+                    "value": 0.0436607
+                },
+                {
+                    "name": "华为 荣耀 3X",
+                    "value": 0.05586094
+                },
+                {
+                    "name": "华为 P9",
+                    "value": 0.06343242
+                },
+                {
+                    "name": "华为 G61-U",
+                    "value": 0.063779734
+                },
+                {
+                    "name": "华为 P6-T00",
+                    "value": 0.063849196
+                },
+                {
+                    "name": "华为 荣耀 X2",
+                    "value": 0.06716447
+                },
+                {
+                    "name": "华为 荣耀6 PLUS",
+                    "value": 0.07086497
+                },
+                {
+                    "name": "华为 Y511",
+                    "value": 0.07531691
+                },
+                {
+                    "name": "华为 G610-T11",
+                    "value": 0.077230304
+                },
+                {
+                    "name": "华为 荣耀 畅玩5X",
+                    "value": 0.085458525
+                },
+                {
+                    "name": "华为 荣耀3C",
+                    "value": 0.09474763
+                },
+                {
+                    "name": "华为 畅享5",
+                    "value": 0.101858124
+                },
+                {
+                    "name": "华为 G620",
+                    "value": 0.102641165
+                },
+                {
+                    "name": "华为  H30-U10",
+                    "value": 0.1106231
+                },
+                {
+                    "name": "华为 HOL-T00",
+                    "value": 0.110642046
+                },
+                {
+                    "name": "华为 荣耀H20-T00",
+                    "value": 0.11207551
+                },
+                {
+                    "name": "华为 MATE S",
+                    "value": 0.11419729
+                },
+                {
+                    "name": "华为 G7",
+                    "value": 0.12520403
+                },
+                {
+                    "name": "华为 荣耀畅玩4X ",
+                    "value": 0.127831
+                },
+                {
+                    "name": "华为 荣耀 CHE2-UL00",
+                    "value": 0.14457792
+                },
+                {
+                    "name": "华为 荣耀 6PLUS",
+                    "value": 0.14723645
+                },
+                {
+                    "name": "华为 荣耀 3C",
+                    "value": 0.16709659
+                },
+                {
+                    "name": "华为 荣耀畅玩4C",
+                    "value": 0.18033877
+                },
+                {
+                    "name": "华为 CHE1-CL20",
+                    "value": 0.19183175
+                },
+                {
+                    "name": "华为 荣耀 7I",
+                    "value": 0.19301894
+                },
+                {
+                    "name": "华为 TAG-AL00",
+                    "value": 0.19541225
+                },
+                {
+                    "name": "华为 荣耀 畅玩4X",
+                    "value": 0.20065355
+                },
+                {
+                    "name": "华为 荣耀 6",
+                    "value": 0.21270224
+                },
+                {
+                    "name": "华为 G7-TL00",
+                    "value": 0.21757098
+                },
+                {
+                    "name": "华为 ASCEND P8 ",
+                    "value": 0.23170355
+                },
+                {
+                    "name": "华为 荣耀4X",
+                    "value": 0.23575766
+                },
+                {
+                    "name": "华为 PE-TL20",
+                    "value": 0.23665437
+                },
+                {
+                    "name": "华为 PE-TL10",
+                    "value": 0.24237561
+                },
+                {
+                    "name": "华为 CHE2-TLOOM ",
+                    "value": 0.28640255
+                },
+                {
+                    "name": "华为 CHM-TL00H",
+                    "value": 0.3300822
+                },
+                {
+                    "name": "华为 麦芒4",
+                    "value": 0.33532983
+                },
+                {
+                    "name": "华为 荣耀6",
+                    "value": 0.34168887
+                },
+                {
+                    "name": "华为 荣耀 畅玩4",
+                    "value": 0.348692
+                },
+                {
+                    "name": "华为 荣耀3X",
+                    "value": 0.37894002
+                },
+                {
+                    "name": "华为 MATE 8",
+                    "value": 0.43254656
+                },
+                {
+                    "name": "华为 ASCEND P7",
+                    "value": 0.4354703
+                },
+                {
+                    "name": "华为 荣耀4A",
+                    "value": 0.46879998
+                },
+                {
+                    "name": "华为 荣耀 4A",
+                    "value": 0.501757
+                },
+                {
+                    "name": "华为 H60-L01",
+                    "value": 0.5733924
+                },
+                {
+                    "name": "华为 荣耀畅玩5X",
+                    "value": 0.6133084
+                },
+                {
+                    "name": "华为 荣耀7",
+                    "value": 0.71257746
+                },
+                {
+                    "name": "华为 MATE 7",
+                    "value": 0.90012145
+                },
+                {
+                    "name": "华为 P8",
+                    "value": 0.93747365
+                },
+                {
+                    "name": "其他",
+                    "value": 1.6493438
+                }
+            ]
+        },
+        {
+            "name": "VIVO",
+            "value": 13.751377,
+            "children": [
+                {
+                    "name": "VIVO Y31",
+                    "value": 0.00739466
+                },
+                {
+                    "name": "VIVO X3V",
+                    "value": 0.015086116
+                },
+                {
+                    "name": "VIVO Y11T",
+                    "value": 0.02195033
+                },
+                {
+                    "name": "VIVO Y927",
+                    "value": 0.021994535
+                },
+                {
+                    "name": "VIVO Y923",
+                    "value": 0.028757712
+                },
+                {
+                    "name": "VIVO Y913",
+                    "value": 0.033342276
+                },
+                {
+                    "name": "VIVO X5V",
+                    "value": 0.043344956
+                },
+                {
+                    "name": "VIVO X1St",
+                    "value": 0.066659294
+                },
+                {
+                    "name": "VIVO X5PRO V",
+                    "value": 0.067132905
+                },
+                {
+                    "name": "VIVO Y11I T",
+                    "value": 0.070012465
+                },
+                {
+                    "name": "VIVO Y20",
+                    "value": 0.071610115
+                },
+                {
+                    "name": "VIVO S7I (T)",
+                    "value": 0.07622625
+                },
+                {
+                    "name": "VIVO X6SPLUS",
+                    "value": 0.07972466
+                },
+                {
+                    "name": "VIVO Y11",
+                    "value": 0.08198537
+                },
+                {
+                    "name": "VIVO Y22IL",
+                    "value": 0.08224428
+                },
+                {
+                    "name": "VIVO Y15",
+                    "value": 0.08771923
+                },
+                {
+                    "name": "VIVO XPLAY5A",
+                    "value": 0.11679269
+                },
+                {
+                    "name": "VIVO X510T",
+                    "value": 0.12563975
+                },
+                {
+                    "name": "VIVO X5MAX L",
+                    "value": 0.12819725
+                },
+                {
+                    "name": "VIVO Y22L",
+                    "value": 0.13533302
+                },
+                {
+                    "name": "VIVO X6S",
+                    "value": 0.15972719
+                },
+                {
+                    "name": "VIVO X6L",
+                    "value": 0.1626383
+                },
+                {
+                    "name": "VIVO Y17T",
+                    "value": 0.16597255
+                },
+                {
+                    "name": "VIVO Y28L",
+                    "value": 0.17895582
+                },
+                {
+                    "name": "VIVO Y18L",
+                    "value": 0.18290891
+                },
+                {
+                    "name": "VIVO Y35A",
+                    "value": 0.18677357
+                },
+                {
+                    "name": "VIVO XPLAY3S",
+                    "value": 0.1990054
+                },
+                {
+                    "name": "VIVO Y51A",
+                    "value": 0.21709105
+                },
+                {
+                    "name": "VIVO X710L",
+                    "value": 0.22932918
+                },
+                {
+                    "name": "VIVO Y29L",
+                    "value": 0.24821682
+                },
+                {
+                    "name": "VIVO X3T",
+                    "value": 0.28331462
+                },
+                {
+                    "name": "VIVO Y37",
+                    "value": 0.31629694
+                },
+                {
+                    "name": "VIVO X5L",
+                    "value": 0.3460019
+                },
+                {
+                    "name": "VIVO X3L",
+                    "value": 0.34710696
+                },
+                {
+                    "name": "VIVO Y35",
+                    "value": 0.3572612
+                },
+                {
+                    "name": "VIVO X6A",
+                    "value": 0.3649274
+                },
+                {
+                    "name": "VIVO Y13",
+                    "value": 0.38548848
+                },
+                {
+                    "name": "VIVO X6PLUS D",
+                    "value": 0.39407033
+                },
+                {
+                    "name": "VIVO Y13L",
+                    "value": 0.3986486
+                },
+                {
+                    "name": "VIVO Y33",
+                    "value": 0.4608496
+                },
+                {
+                    "name": "VIVO Y51",
+                    "value": 0.48806018
+                },
+                {
+                    "name": "VIVO X5S L",
+                    "value": 0.5154728
+                },
+                {
+                    "name": "VIVO X5MAX+",
+                    "value": 0.52356213
+                },
+                {
+                    "name": "VIVO X5M",
+                    "value": 0.6564639
+                },
+                {
+                    "name": "VIVO Y27",
+                    "value": 0.70017517
+                },
+                {
+                    "name": "VIVO X5 PRO",
+                    "value": 0.74733424
+                },
+                {
+                    "name": "VIVO Y23L",
+                    "value": 0.78963727
+                },
+                {
+                    "name": "VIVO X6D",
+                    "value": 0.90718144
+                },
+                {
+                    "name": "其他",
+                    "value": 1.4777575
+                }
+            ]
+        },
+        {
+            "name": "三星",
+            "value": 13.039747,
+            "children": [
+                {
+                    "name": "三星 SCH-L710",
+                    "value": 0.00001262965
+                },
+                {
+                    "name": "三星 I869",
+                    "value": 0.0000505186
+                },
+                {
+                    "name": "三星 GALAXY NOTE 2",
+                    "value": 0.00018944475
+                },
+                {
+                    "name": "三星 GALAXY CORE 2 DUOS",
+                    "value": 0.00018944475
+                },
+                {
+                    "name": "三星 GALAXY ACE NXT",
+                    "value": 0.00031574123
+                },
+                {
+                    "name": "三星 J7",
+                    "value": 0.00036625983
+                },
+                {
+                    "name": "三星 J1",
+                    "value": 0.0011808722
+                },
+                {
+                    "name": "三星 GT-S7582",
+                    "value": 0.0021470403
+                },
+                {
+                    "name": "三星 GALAXY S4 MINI",
+                    "value": 0.0025069856
+                },
+                {
+                    "name": "三星 SM-J100H",
+                    "value": 0.00342895
+                },
+                {
+                    "name": "三星 GALAXY CORE 2",
+                    "value": 0.003751006
+                },
+                {
+                    "name": "三星 GALAXY E5",
+                    "value": 0.004079377
+                },
+                {
+                    "name": "三星 GALAXY S3 NEO+",
+                    "value": 0.0066558253
+                },
+                {
+                    "name": "三星 W2014",
+                    "value": 0.006712659
+                },
+                {
+                    "name": "三星 SM-G531H",
+                    "value": 0.006914733
+                },
+                {
+                    "name": "三星 GALAXY CORE PRIME",
+                    "value": 0.0075209565
+                },
+                {
+                    "name": "三星 GT-I9060I",
+                    "value": 0.010425776
+                },
+                {
+                    "name": "三星 GALAXY S6 EDGE",
+                    "value": 0.013090632
+                },
+                {
+                    "name": "三星 G530H",
+                    "value": 0.013608447
+                },
+                {
+                    "name": "三星 SM-G7102",
+                    "value": 0.01442306
+                },
+                {
+                    "name": "三星 NOTE4",
+                    "value": 0.015521839
+                },
+                {
+                    "name": "三星 GALAXY A9 PRO",
+                    "value": 0.021369368
+                },
+                {
+                    "name": "三星 GALAXY SII",
+                    "value": 0.021956647
+                },
+                {
+                    "name": "三星 GALAXY TREND DUOS",
+                    "value": 0.027280044
+                },
+                {
+                    "name": "三星 GALAXY TAB 3 7.0",
+                    "value": 0.027400024
+                },
+                {
+                    "name": "三星 GALAXY NOTE 10.1",
+                    "value": 0.028252527
+                },
+                {
+                    "name": "三星 GT-I8262D",
+                    "value": 0.036745965
+                },
+                {
+                    "name": "三星 I8268",
+                    "value": 0.038810913
+                },
+                {
+                    "name": "三星 GALAXY MEGA",
+                    "value": 0.04438059
+                },
+                {
+                    "name": "三星 SM-G900F",
+                    "value": 0.054818995
+                },
+                {
+                    "name": "三星 GALAXY CORE MAX",
+                    "value": 0.068496905
+                },
+                {
+                    "name": "三星 GALAXY Win Pro",
+                    "value": 0.07086497
+                },
+                {
+                    "name": "三星 GALAXY GRAND PRIME",
+                    "value": 0.07488751
+                },
+                {
+                    "name": "三星 GALAXY MEGA 2",
+                    "value": 0.08595108
+                },
+                {
+                    "name": "三星  GT-I9300I",
+                    "value": 0.08852121
+                },
+                {
+                    "name": "三星 GALAXY NOTE 4",
+                    "value": 0.092499554
+                },
+                {
+                    "name": "三星 GT-I9152",
+                    "value": 0.11175346
+                },
+                {
+                    "name": "三星 GALAXY WIN",
+                    "value": 0.11182292
+                },
+                {
+                    "name": "三星 NOTE5",
+                    "value": 0.11271331
+                },
+                {
+                    "name": "三星 GALAXY J3",
+                    "value": 0.1286835
+                },
+                {
+                    "name": "三星 GALAXY GRAND DUOS",
+                    "value": 0.14424323
+                },
+                {
+                    "name": "三星 GALAXY NOTE3",
+                    "value": 0.16736811
+                },
+                {
+                    "name": "三星 GALAXY GRAND 2",
+                    "value": 0.17641094
+                },
+                {
+                    "name": "三星 SM-N9100",
+                    "value": 0.18616104
+                },
+                {
+                    "name": "三星 SM-N9002",
+                    "value": 0.19609426
+                },
+                {
+                    "name": "三星 GALAXY J5",
+                    "value": 0.20163235
+                },
+                {
+                    "name": "三星 SM-G5308W",
+                    "value": 0.21390206
+                },
+                {
+                    "name": "三星 SM-G7106",
+                    "value": 0.21826561
+                },
+                {
+                    "name": "三星 GALAXY J7",
+                    "value": 0.23378113
+                },
+                {
+                    "name": "三星 GALAXY SIII",
+                    "value": 0.24703595
+                },
+                {
+                    "name": "三星 GALAXY S6 EDGE+",
+                    "value": 0.26391548
+                },
+                {
+                    "name": "三星 GALAXY A8",
+                    "value": 0.30304843
+                },
+                {
+                    "name": "三星 GALAXY S6",
+                    "value": 0.3077214
+                },
+                {
+                    "name": "三星 GALAXY NOTE",
+                    "value": 0.30883282
+                },
+                {
+                    "name": "三星 SM-G9250",
+                    "value": 0.34790266
+                },
+                {
+                    "name": "三星 SM-A5000",
+                    "value": 0.353807
+                },
+                {
+                    "name": "三星 GALAXY A7",
+                    "value": 0.46616668
+                },
+                {
+                    "name": "三星 GALAXY S5",
+                    "value": 0.5660609
+                },
+                {
+                    "name": "三星 GALAXY S4",
+                    "value": 0.5796125
+                },
+                {
+                    "name": "三星 GALAXY NOTE 3",
+                    "value": 0.6059769
+                },
+                {
+                    "name": "三星 GALAXY NOTE II",
+                    "value": 0.9292138
+                },
+                {
+                    "name": "其他",
+                    "value": 4.6622915
+                }
+            ]
+        },
+        {
+            "name": "魅族",
+            "value": 5.077858,
+            "children": [
+                {
+                    "name": "魅族 MX",
+                    "value": 0.00030942642
+                },
+                {
+                    "name": "魅族 MX2",
+                    "value": 0.057502795
+                },
+                {
+                    "name": "魅族 MX3 ",
+                    "value": 0.11669796
+                },
+                {
+                    "name": "魅族 魅蓝 2",
+                    "value": 0.12058158
+                },
+                {
+                    "name": "魅蓝 NOTE",
+                    "value": 0.122873865
+                },
+                {
+                    "name": "魅族 MX3 16G",
+                    "value": 0.124155775
+                },
+                {
+                    "name": "魅族 PRO5",
+                    "value": 0.12474936
+                },
+                {
+                    "name": "其他",
+                    "value": 0.13015485
+                },
+                {
+                    "name": "魅族 X4 PRO",
+                    "value": 0.33699062
+                },
+                {
+                    "name": "魅族 X4",
+                    "value": 0.55044436
+                },
+                {
+                    "name": "魅蓝 METAL",
+                    "value": 0.5994979
+                },
+                {
+                    "name": "魅族 魅蓝 NOTE",
+                    "value": 0.7273289
+                },
+                {
+                    "name": "魅族 MX5",
+                    "value": 0.747991
+                },
+                {
+                    "name": "魅蓝 NOTE2",
+                    "value": 1.3185797
+                }
+            ]
+        },
+        {
+            "name": "酷派",
+            "value": 5.0495806,
+            "children": [
+                {
+                    "name": "酷派 8085",
+                    "value": 0.008070346
+                },
+                {
+                    "name": "酷派 炫影 90Q",
+                    "value": 0.009421718
+                },
+                {
+                    "name": "酷派 炫影 S",
+                    "value": 0.013785263
+                },
+                {
+                    "name": "酷派 8029",
+                    "value": 0.013911559
+                },
+                {
+                    "name": "酷派 8105",
+                    "value": 0.020472663
+                },
+                {
+                    "name": "酷派 8717",
+                    "value": 0.023617445
+                },
+                {
+                    "name": "酷派 大神X7",
+                    "value": 0.025354022
+                },
+                {
+                    "name": "酷派 全魔王",
+                    "value": 0.036234464
+                },
+                {
+                    "name": "酷派 5892",
+                    "value": 0.03763004
+                },
+                {
+                    "name": "酷派 IVVI SS1-01",
+                    "value": 0.043332327
+                },
+                {
+                    "name": "酷派 IVVI 小骨PRO",
+                    "value": 0.044298496
+                },
+                {
+                    "name": "酷派 8702",
+                    "value": 0.04643291
+                },
+                {
+                    "name": "酷派 5360",
+                    "value": 0.051011156
+                },
+                {
+                    "name": "酷派 Y90",
+                    "value": 0.052097306
+                },
+                {
+                    "name": "酷派 5263",
+                    "value": 0.05868998
+                },
+                {
+                    "name": "酷派 867",
+                    "value": 0.06752442
+                },
+                {
+                    "name": "酷派 875",
+                    "value": 0.07638412
+                },
+                {
+                    "name": "酷派 873",
+                    "value": 0.08047613
+                },
+                {
+                    "name": "酷派 919",
+                    "value": 0.08324202
+                },
+                {
+                    "name": "酷派 8729",
+                    "value": 0.08867277
+                },
+                {
+                    "name": "酷派 8712",
+                    "value": 0.098637566
+                },
+                {
+                    "name": "酷派 8702D",
+                    "value": 0.10387255
+                },
+                {
+                    "name": "酷派 锋尚",
+                    "value": 0.105040796
+                },
+                {
+                    "name": "酷派 大神 F2",
+                    "value": 0.113679476
+                },
+                {
+                    "name": "酷派 872",
+                    "value": 0.15830635
+                },
+                {
+                    "name": "酷派 8297-T01",
+                    "value": 0.18654624
+                },
+                {
+                    "name": "酷派 大神NOTE3",
+                    "value": 0.20656423
+                },
+                {
+                    "name": "酷派 8297",
+                    "value": 0.25321817
+                },
+                {
+                    "name": "酷派 Y75",
+                    "value": 0.31652427
+                },
+                {
+                    "name": "酷派 8675",
+                    "value": 0.58402026
+                },
+                {
+                    "name": "其他",
+                    "value": 2.0425112
+                }
+            ]
+        },
+        {
+            "name": "联想",
+            "value": 3.3366334,
+            "children": [
+                {
+                    "name": "联想 A2580",
+                    "value": 0.00011366684
+                },
+                {
+                    "name": "联想 A355E",
+                    "value": 0.031422567
+                },
+                {
+                    "name": "联想 A388T",
+                    "value": 0.036259726
+                },
+                {
+                    "name": "联想 ZUK Z1",
+                    "value": 0.053537086
+                },
+                {
+                    "name": "联想 A85",
+                    "value": 0.054938976
+                },
+                {
+                    "name": "联想 A88T",
+                    "value": 0.08043824
+                },
+                {
+                    "name": "联想 S81T",
+                    "value": 0.0842145
+                },
+                {
+                    "name": "联想 A368T",
+                    "value": 0.08443552
+                },
+                {
+                    "name": "联想 A36T",
+                    "value": 0.12760998
+                },
+                {
+                    "name": "联想 A32T",
+                    "value": 0.15341868
+                },
+                {
+                    "name": "联想 A3800-D",
+                    "value": 0.15409435
+                },
+                {
+                    "name": "联想 A788T",
+                    "value": 0.1915981
+                },
+                {
+                    "name": "联想 K3-T",
+                    "value": 0.2044614
+                },
+                {
+                    "name": "其他",
+                    "value": 2.0800908
+                }
+            ]
+        },
+        {
+            "name": "金立",
+            "value": 2.3494747,
+            "children": [
+                {
+                    "name": "金立 风华3 MINI",
+                    "value": 0.008979681
+                },
+                {
+                    "name": "金立 GN708T",
+                    "value": 0.009105978
+                },
+                {
+                    "name": "金立 E6 MINI",
+                    "value": 0.011088832
+                },
+                {
+                    "name": "金立 GN150",
+                    "value": 0.012156038
+                },
+                {
+                    "name": "金立 GN715",
+                    "value": 0.014915616
+                },
+                {
+                    "name": "金立 F103S",
+                    "value": 0.014966135
+                },
+                {
+                    "name": "金立 E7T",
+                    "value": 0.015414488
+                },
+                {
+                    "name": "金立 GN137",
+                    "value": 0.01710686
+                },
+                {
+                    "name": "金立 X805",
+                    "value": 0.018773975
+                },
+                {
+                    "name": "金立 E3T",
+                    "value": 0.019626476
+                },
+                {
+                    "name": "金立 天鉴 W900",
+                    "value": 0.020403199
+                },
+                {
+                    "name": "金立 V182",
+                    "value": 0.025196152
+                },
+                {
+                    "name": "金立 S7 MINI",
+                    "value": 0.028524064
+                },
+                {
+                    "name": "金立 V188",
+                    "value": 0.02971125
+                },
+                {
+                    "name": "金立 V185",
+                    "value": 0.04914828
+                },
+                {
+                    "name": "金立 S5.5",
+                    "value": 0.050442822
+                },
+                {
+                    "name": "金立 GN152",
+                    "value": 0.05637244
+                },
+                {
+                    "name": "金立 F301",
+                    "value": 0.05698498
+                },
+                {
+                    "name": "金立 F303",
+                    "value": 0.05765435
+                },
+                {
+                    "name": "金立 ELIFE S5.5L",
+                    "value": 0.058090072
+                },
+                {
+                    "name": "金立 GN8001",
+                    "value": 0.058121648
+                },
+                {
+                    "name": "金立 V188S",
+                    "value": 0.08150545
+                },
+                {
+                    "name": "金立 S5.1",
+                    "value": 0.1042767
+                },
+                {
+                    "name": "金立 V183",
+                    "value": 0.1328576
+                },
+                {
+                    "name": "金立 金刚",
+                    "value": 0.1331986
+                },
+                {
+                    "name": "金立 GN151",
+                    "value": 0.13727166
+                },
+                {
+                    "name": "金立 S7",
+                    "value": 0.14328969
+                },
+                {
+                    "name": "金立 S6",
+                    "value": 0.1954754
+                },
+                {
+                    "name": "其他",
+                    "value": 0.2226102
+                },
+                {
+                    "name": "金立 F103",
+                    "value": 0.56620616
+                }
+            ]
+        },
+        {
+            "name": "乐视",
+            "value": 1.2721025,
+            "children": [
+                {
+                    "name": "乐视 超级手机 1",
+                    "value": 0.000006314825
+                },
+                {
+                    "name": "其他",
+                    "value": 0.0000252593
+                },
+                {
+                    "name": "乐视 乐MAX PRO",
+                    "value": 0.00015787061
+                },
+                {
+                    "name": "乐视 乐MAX",
+                    "value": 0.03726378
+                },
+                {
+                    "name": "乐视 乐1PRO",
+                    "value": 0.1184598
+                },
+                {
+                    "name": "乐视 乐1",
+                    "value": 0.22627912
+                },
+                {
+                    "name": "乐视 乐1s太子妃版",
+                    "value": 0.27780178
+                },
+                {
+                    "name": "乐视 乐1S",
+                    "value": 0.6121086
+                }
+            ]
+        },
+        {
+            "name": "中兴",
+            "value": 0.88245255,
+            "children": [
+                {
+                    "name": "中兴 Z970",
+                    "value": 0.00027153746
+                },
+                {
+                    "name": "中兴 N99",
+                    "value": 0.00090933475
+                },
+                {
+                    "name": "中兴 M91",
+                    "value": 0.0018818178
+                },
+                {
+                    "name": "中兴 G717",
+                    "value": 0.0025764485
+                },
+                {
+                    "name": "中兴 Q31",
+                    "value": 0.0030816344
+                },
+                {
+                    "name": "中兴 V5",
+                    "value": 0.008449236
+                },
+                {
+                    "name": "中兴 U87",
+                    "value": 0.009434348
+                },
+                {
+                    "name": "中兴 U817",
+                    "value": 0.009964794
+                },
+                {
+                    "name": "中兴 红牛V5",
+                    "value": 0.014315708
+                },
+                {
+                    "name": "中兴 V5 MAX",
+                    "value": 0.029035565
+                },
+                {
+                    "name": "中兴 G718",
+                    "value": 0.030172233
+                },
+                {
+                    "name": "中兴 Q55",
+                    "value": 0.033367533
+                },
+                {
+                    "name": "中兴 Q82",
+                    "value": 0.04146314
+                },
+                {
+                    "name": "中兴 A88",
+                    "value": 0.04571302
+                },
+                {
+                    "name": "中兴 红牛V5S",
+                    "value": 0.056157738
+                },
+                {
+                    "name": "中兴 努比亚 Z9MINI",
+                    "value": 0.102729574
+                },
+                {
+                    "name": "其他",
+                    "value": 0.49292892
+                }
+            ]
+        },
+        {
+            "name": "HTC",
+            "value": 0.8017744,
+            "children": [
+                {
+                    "name": "HTC T329T",
+                    "value": 0.01478932
+                },
+                {
+                    "name": "HTC DESIRE 826W",
+                    "value": 0.0232575
+                },
+                {
+                    "name": "HTC M8 ACE",
+                    "value": 0.02557504
+                },
+                {
+                    "name": "HTC M8",
+                    "value": 0.05726283
+                },
+                {
+                    "name": "HTC ONE",
+                    "value": 0.08312204
+                },
+                {
+                    "name": "HTC DESIRE 820",
+                    "value": 0.096162155
+                },
+                {
+                    "name": "HTC DESIRE 816",
+                    "value": 0.12525456
+                },
+                {
+                    "name": "其他",
+                    "value": 0.37635094
+                }
+            ]
+        },
+        {
+            "name": "中国移动",
+            "value": 0.53141147,
+            "children": [
+                {
+                    "name": "中国移动 G20_LXD",
+                    "value": 0.005373916
+                },
+                {
+                    "name": "中国移动 M811",
+                    "value": 0.039347675
+                },
+                {
+                    "name": "中国移动 N1 MAX",
+                    "value": 0.04562461
+                },
+                {
+                    "name": "中国移动 M812C",
+                    "value": 0.05847528
+                },
+                {
+                    "name": "中国移动 N1(M821) ",
+                    "value": 0.11593387
+                },
+                {
+                    "name": "中国移动 A1 M623C",
+                    "value": 0.2666561
+                }
+            ]
+        },
+        {
+            "name": "朵唯",
+            "value": 0.4978671,
+            "children": [
+                {
+                    "name": "朵唯 倾城L3C",
+                    "value": 0.050329152
+                },
+                {
+                    "name": "朵唯 L3",
+                    "value": 0.06549105
+                },
+                {
+                    "name": "其他",
+                    "value": 0.3820469
+                }
+            ]
+        },
+        {
+            "name": "小辣椒",
+            "value": 0.37823275,
+            "children": [
+                {
+                    "name": "小辣椒 X3",
+                    "value": 0.01332428
+                },
+                {
+                    "name": "小辣椒 红辣椒 NOTE",
+                    "value": 0.020422144
+                },
+                {
+                    "name": "小辣椒 红辣椒任性版+",
+                    "value": 0.13525723
+                },
+                {
+                    "name": "小辣椒 LA2-S",
+                    "value": 0.2092291
+                }
+            ]
+        },
+        {
+            "name": "TCL",
+            "value": 0.27449912,
+            "children": [
+                {
+                    "name": "TCL 乐玩P588L",
+                    "value": 0.00029048196
+                },
+                {
+                    "name": "TCL P318L",
+                    "value": 0.00035994503
+                },
+                {
+                    "name": "TCL P308L",
+                    "value": 0.0005367601
+                },
+                {
+                    "name": "其他",
+                    "value": 0.27331194
+                }
+            ]
+        },
+        {
+            "name": "LG",
+            "value": 0.21641536,
+            "children": [
+                {
+                    "name": "LG MS330",
+                    "value": 0.000018944475
+                },
+                {
+                    "name": "LG K410",
+                    "value": 0.000031574124
+                },
+                {
+                    "name": "LG K330",
+                    "value": 0.00006314825
+                },
+                {
+                    "name": "LG AKA",
+                    "value": 0.00024627816
+                },
+                {
+                    "name": "其他",
+                    "value": 0.21605542
+                }
+            ]
+        },
+        {
+            "name": "天语",
+            "value": 0.2085534,
+            "children": [
+                {
+                    "name": "天语 U81T",
+                    "value": 0.000006314825
+                },
+                {
+                    "name": "其他",
+                    "value": 0.20854709
+                }
+            ]
+        },
+        {
+            "name": "SONY",
+            "value": 0.20686103,
+            "children": [
+                {
+                    "name": "SONY D2303",
+                    "value": 0.0010356313
+                },
+                {
+                    "name": "SONY D2502",
+                    "value": 0.0012187612
+                },
+                {
+                    "name": "其他",
+                    "value": 0.0035805057
+                },
+                {
+                    "name": "SONY Xperia Z1 炫彩版",
+                    "value": 0.0036436538
+                },
+                {
+                    "name": "SONY Xperia Z3+",
+                    "value": 0.0044203773
+                },
+                {
+                    "name": "SONY Xperia P",
+                    "value": 0.004723489
+                },
+                {
+                    "name": "SONY Xperia SL",
+                    "value": 0.007666197
+                },
+                {
+                    "name": "SONY Xperia TX",
+                    "value": 0.0078114383
+                },
+                {
+                    "name": "SONY Xperia S",
+                    "value": 0.010804665
+                },
+                {
+                    "name": "SONY Xperia Z Ultra",
+                    "value": 0.011581388
+                },
+                {
+                    "name": "SONY C6903",
+                    "value": 0.013911559
+                },
+                {
+                    "name": "SONY D6503",
+                    "value": 0.017365769
+                },
+                {
+                    "name": "SONY L36H",
+                    "value": 0.018515067
+                },
+                {
+                    "name": "SONY XPERIA Z3",
+                    "value": 0.021710368
+                },
+                {
+                    "name": "SONY Xperia Z1",
+                    "value": 0.03905719
+                },
+                {
+                    "name": "SONY Xperia Z",
+                    "value": 0.03981497
+                }
+            ]
+        },
+        {
+            "name": "锤子",
+            "value": 0.16308035,
+            "children": [
+                {
+                    "name": "锤子 坚果",
+                    "value": 0.16308035
+                }
+            ]
+        },
+        {
+            "name": "努比亚",
+            "value": 0.15711915,
+            "children": [
+                {
+                    "name": "努比亚 Z5S Mini LTE",
+                    "value": 0.018395085
+                },
+                {
+                    "name": "努比亚 Z9",
+                    "value": 0.019506494
+                },
+                {
+                    "name": "努比亚 Z9 MAX",
+                    "value": 0.024381539
+                },
+                {
+                    "name": "努比亚 Z7",
+                    "value": 0.025082484
+                },
+                {
+                    "name": "努比亚 布拉格",
+                    "value": 0.027507378
+                },
+                {
+                    "name": "努比亚 G7 MINI",
+                    "value": 0.042246178
+                }
+            ]
+        },
+        {
+            "name": "美图",
+            "value": 0.13125363,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.00065042695
+                },
+                {
+                    "name": "美图 M2",
+                    "value": 0.009301737
+                },
+                {
+                    "name": "美图 2",
+                    "value": 0.013374799
+                },
+                {
+                    "name": "美图 M4S",
+                    "value": 0.016942674
+                },
+                {
+                    "name": "美图 V4",
+                    "value": 0.022468146
+                },
+                {
+                    "name": "美图 M4",
+                    "value": 0.06851585
+                }
+            ]
+        },
+        {
+            "name": "华硕",
+            "value": 0.12946023,
+            "children": [
+                {
+                    "name": "华硕 平板 Fonepad",
+                    "value": 0.0014460948
+                },
+                {
+                    "name": "华硕 Z007",
+                    "value": 0.004155155
+                },
+                {
+                    "name": "华硕 K012",
+                    "value": 0.0045656185
+                },
+                {
+                    "name": "华硕 ZENFONE 5",
+                    "value": 0.010185813
+                },
+                {
+                    "name": "华硕 T00J",
+                    "value": 0.015723914
+                },
+                {
+                    "name": "其他",
+                    "value": 0.09338363
+                }
+            ]
+        },
+        {
+            "name": "一加",
+            "value": 0.11179766,
+            "children": [
+                {
+                    "name": "一加手机 2",
+                    "value": 0.025505578
+                },
+                {
+                    "name": "一加 ONE PLUS NOTE",
+                    "value": 0.08629208
+                }
+            ]
+        },
+        {
+            "name": "海信",
+            "value": 0.10628482,
+            "children": [
+                {
+                    "name": "海信 E968",
+                    "value": 0.0000757779
+                },
+                {
+                    "name": "海信M20-T",
+                    "value": 0.0005304453
+                },
+                {
+                    "name": "海信 E26",
+                    "value": 0.000612538
+                },
+                {
+                    "name": "海信 EG939",
+                    "value": 0.00070094556
+                },
+                {
+                    "name": "海信 EG978",
+                    "value": 0.0007072604
+                },
+                {
+                    "name": "海信 EG929",
+                    "value": 0.0007135752
+                },
+                {
+                    "name": "海信 EG971",
+                    "value": 0.0007135752
+                },
+                {
+                    "name": "海信 EG966",
+                    "value": 0.0007388345
+                },
+                {
+                    "name": "海信 E100T",
+                    "value": 0.0012124464
+                },
+                {
+                    "name": "海信 E602T",
+                    "value": 0.0014587245
+                },
+                {
+                    "name": "海信 EG97",
+                    "value": 0.0016039655
+                },
+                {
+                    "name": "海信 E621T",
+                    "value": 0.0018312992
+                },
+                {
+                    "name": "海信 E6M",
+                    "value": 0.008575533
+                },
+                {
+                    "name": "海信 E602M",
+                    "value": 0.014012597
+                },
+                {
+                    "name": "海信 X8",
+                    "value": 0.021445146
+                },
+                {
+                    "name": "其他",
+                    "value": 0.051352154
+                }
+            ]
+        },
+        {
+            "name": "贝尔丰",
+            "value": 0.08372826,
+            "children": [
+                {
+                    "name": "贝尔丰 T12",
+                    "value": 0.03775634
+                },
+                {
+                    "name": "贝尔丰 BF A500",
+                    "value": 0.045971926
+                }
+            ]
+        },
+        {
+            "name": "VOTO",
+            "value": 0.083380945,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.023333278
+                },
+                {
+                    "name": "VOTO GT7",
+                    "value": 0.06004767
+                }
+            ]
+        },
+        {
+            "name": "谷歌",
+            "value": 0.075613715,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.075613715
+                }
+            ]
+        },
+        {
+            "name": "摩托罗拉",
+            "value": 0.066425644,
+            "children": [
+                {
+                    "name": "摩托罗拉 XT1069",
+                    "value": 0.00020838922
+                },
+                {
+                    "name": "摩托罗拉 E2",
+                    "value": 0.00022101887
+                },
+                {
+                    "name": "摩托罗拉 DROID RAZR M",
+                    "value": 0.0004041488
+                },
+                {
+                    "name": "摩托罗拉 XT1068",
+                    "value": 0.0006756863
+                },
+                {
+                    "name": "摩托罗拉 MOTO G",
+                    "value": 0.0010861498
+                },
+                {
+                    "name": "摩托罗拉 G3",
+                    "value": 0.0011303537
+                },
+                {
+                    "name": "其他",
+                    "value": 0.0626999
+                }
+            ]
+        },
+        {
+            "name": "金星",
+            "value": 0.066261455,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.066261455
+                }
+            ]
+        },
+        {
+            "name": "百立丰",
+            "value": 0.06272516,
+            "children": [
+                {
+                    "name": "百立丰 lephone T2",
+                    "value": 0.06272516
+                }
+            ]
+        },
+        {
+            "name": "优购",
+            "value": 0.061203282,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.061203282
+                }
+            ]
+        },
+        {
+            "name": "奇酷",
+            "value": 0.055065274,
+            "children": [
+                {
+                    "name": "奇酷 青春版 Q1",
+                    "value": 0.055065274
+                }
+            ]
+        },
+        {
+            "name": "长虹",
+            "value": 0.050682783,
+            "children": [
+                {
+                    "name": "长虹 TV",
+                    "value": 0.000006314825
+                },
+                {
+                    "name": "其他",
+                    "value": 0.05067647
+                }
+            ]
+        },
+        {
+            "name": "爱我",
+            "value": 0.04812528,
+            "children": [
+                {
+                    "name": "爱我 T9",
+                    "value": 0.020977847
+                },
+                {
+                    "name": "其他",
+                    "value": 0.027147433
+                }
+            ]
+        },
+        {
+            "name": "诺基亚",
+            "value": 0.047569577,
+            "children": [
+                {
+                    "name": "诺基亚 N1",
+                    "value": 0.0039341357
+                },
+                {
+                    "name": "其他",
+                    "value": 0.04363544
+                }
+            ]
+        },
+        {
+            "name": "誉品",
+            "value": 0.04194938,
+            "children": [
+                {
+                    "name": "誉品 小刚",
+                    "value": 0.04194938
+                }
+            ]
+        },
+        {
+            "name": "波导",
+            "value": 0.039322414,
+            "children": [
+                {
+                    "name": "波导 L7",
+                    "value": 0.007950365
+                },
+                {
+                    "name": "波导 L9",
+                    "value": 0.00935857
+                },
+                {
+                    "name": "波导 LT02",
+                    "value": 0.02201348
+                }
+            ]
+        },
+        {
+            "name": "360",
+            "value": 0.03167516,
+            "children": [
+                {
+                    "name": "360 F4",
+                    "value": 0.03167516
+                }
+            ]
+        },
+        {
+            "name": "红辣椒",
+            "value": 0.023895297,
+            "children": [
+                {
+                    "name": "红辣椒 NOTE3",
+                    "value": 0.023895297
+                }
+            ]
+        },
+        {
+            "name": "纽曼",
+            "value": 0.023737427,
+            "children": [
+                {
+                    "name": "纽曼 纽扣",
+                    "value": 0.023737427
+                }
+            ]
+        },
+        {
+            "name": "步步高",
+            "value": 0.02252498,
+            "children": [
+                {
+                    "name": "步步高 家教机 H8S",
+                    "value": 0.002488041
+                },
+                {
+                    "name": "步步高  H9",
+                    "value": 0.02003694
+                }
+            ]
+        },
+        {
+            "name": "邦华",
+            "value": 0.021173608,
+            "children": [
+                {
+                    "name": "邦华 U7",
+                    "value": 0.021173608
+                }
+            ]
+        },
+        {
+            "name": "优米",
+            "value": 0.019272845,
+            "children": [
+                {
+                    "name": "优米 4",
+                    "value": 0.019272845
+                }
+            ]
+        },
+        {
+            "name": "欧乐迪",
+            "value": 0.016039655,
+            "children": [
+                {
+                    "name": "欧乐迪 Z1988",
+                    "value": 0.016039655
+                }
+            ]
+        },
+        {
+            "name": "诺亚信",
+            "value": 0.013463207,
+            "children": [
+                {
+                    "name": "诺亚信 X7",
+                    "value": 0.013463207
+                }
+            ]
+        },
+        {
+            "name": "斐讯",
+            "value": 0.013040113,
+            "children": [
+                {
+                    "name": "斐讯 C630LW",
+                    "value": 0.013040113
+                }
+            ]
+        },
+        {
+            "name": "LAVA",
+            "value": 0.011088832,
+            "children": [
+                {
+                    "name": "LAVA IRIS 800",
+                    "value": 0.00014524098
+                },
+                {
+                    "name": "LAVA IRIS 500",
+                    "value": 0.00028416712
+                },
+                {
+                    "name": "LAVA IRIS 708",
+                    "value": 0.00036625983
+                },
+                {
+                    "name": "LAVA IRIS 700",
+                    "value": 0.00044203774
+                },
+                {
+                    "name": "LAVA IRIS 600",
+                    "value": 0.0009156496
+                },
+                {
+                    "name": "LAVA X1",
+                    "value": 0.0017050027
+                },
+                {
+                    "name": "其他",
+                    "value": 0.0072304746
+                }
+            ]
+        },
+        {
+            "name": "Myphone",
+            "value": 0.0074830675,
+            "children": [
+                {
+                    "name": "其他",
+                    "value": 0.0074830675
+                }
+            ]
+        },
+        {
+            "name": "MICROMAX",
+            "value": 0.0055759903,
+            "children": [
+                {
+                    "name": "MICROMAX A110",
+                    "value": 0.00005683342
+                },
+                {
+                    "name": "MICROMAX AO5510",
+                    "value": 0.00022733369
+                },
+                {
+                    "name": "MICROMAX A106",
+                    "value": 0.00030942642
+                },
+                {
+                    "name": "其他",
+                    "value": 0.004982397
+                }
+            ]
+        }
+    ],
+    "name": "android"
+}
